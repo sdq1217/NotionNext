@@ -103,7 +103,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '报名入口',
   HEO_SOCIAL_CARD_TITLE_2: '填报资料参加考试',
   HEO_SOCIAL_CARD_TITLE_3: '点击报名考试',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://ccucmjnpj.surongyun.cn/apaas/form/link/posting?f=62d90172e4b069f7c7e09b25',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
